@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main(void)
 {
 	int a[10],i,k,n,sum=0;
 	printf("enter the limit");
