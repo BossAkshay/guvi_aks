@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main(void)
 {
 	int i,n,s=0;
 	printf("enter limit");
