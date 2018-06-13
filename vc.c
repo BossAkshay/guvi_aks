@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main(void)
 {
 	char ch;
 	printf("enter the  consonant\n");
